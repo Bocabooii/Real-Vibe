@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Lilita+One&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* @layer components {
+  .shadow {
+    text-shadow: white 1px 2px;
+  }
+}
+ */
